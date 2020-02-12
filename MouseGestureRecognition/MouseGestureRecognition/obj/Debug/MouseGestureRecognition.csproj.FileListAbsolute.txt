@@ -1,0 +1,199 @@
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe.config
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.pdb
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.dll
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.dll
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.pdb
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.pdb
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csprojAssemblyReference.cache
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Properties.Resources.resources
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.GenerateResource.cache
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CopyComplete
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.exe
+C:\Users\Prashant\source\repos\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe.config
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csprojAssemblyReference.cache
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Properties.Resources.resources
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.GenerateResource.cache
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CoreCompileInputs.cache
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CopyComplete
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Form1.resources
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe.config
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.pdb
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.AppContext.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Console.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Http.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Sockets.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Reflection.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csprojAssemblyReference.cache
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Form1.resources
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Properties.Resources.resources
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.GenerateResource.cache
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CopyComplete
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.exe
+C:\Users\Prashant\Desktop\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.xml
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Form1.resources
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Properties.Resources.resources
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.GenerateResource.cache
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CoreCompileInputs.cache
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe.config
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.AppContext.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Console.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Globalization.Calendars.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.Expressions.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Http.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Sockets.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Reflection.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.Extensions.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Text.RegularExpressions.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.xml
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csprojAssemblyReference.cache
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CopyComplete
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe.config
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.AppContext.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Console.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Globalization.Calendars.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.Expressions.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Http.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Sockets.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Reflection.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.Extensions.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Text.RegularExpressions.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.xml
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csprojAssemblyReference.cache
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Form1.resources
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Properties.Resources.resources
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.GenerateResource.cache
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CoreCompileInputs.cache
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CopyComplete
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\SE\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe.config
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\MouseGestureRecognition.pdb
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\AnomDetect.KMeans.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\LearningApi.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.AppContext.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Console.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Globalization.Calendars.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Linq.Expressions.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Http.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Net.Sockets.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Reflection.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.Extensions.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Text.RegularExpressions.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\Newtonsoft.Json.xml
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csprojAssemblyReference.cache
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Form1.resources
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.Properties.Resources.resources
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.GenerateResource.cache
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CoreCompileInputs.cache
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.csproj.CopyComplete
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.exe
+E:\Prashant\Masters\Academics\Software Engineering\se-dystsys-2018-2019-softwareengineering\Source\MyProject\MouseGestureRecognition\MouseGestureRecognition\obj\Debug\MouseGestureRecognition.pdb

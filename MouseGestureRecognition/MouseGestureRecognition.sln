@@ -1,0 +1,151 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseGestureRecognition", "MouseGestureRecognition\MouseGestureRecognition.csproj", "{6AA5EA2B-200A-40CE-999C-7C2FEED6775E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{633C3D77-3D1E-4897-901A-8F6EEFAD5C6E}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Presentation Recognition of Handwriting Signature.pptx = Documentation\Presentation Recognition of Handwriting Signature.pptx
+		Documentation\Recognition of Handwriting Signature.docx = Documentation\Recognition of Handwriting Signature.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Results", "Results", "{D96029E5-B651-4472-A6A7-C4A0E50404F2}"
+	ProjectSection(SolutionItems) = preProject
+		Results\MouseGestureRecognizerApp.png = Results\MouseGestureRecognizerApp.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign10", "Sign10", "{6810A5F4-9462-4F85-AC3B-B149CBFF6776}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign10\Sign10_Prediction1.png = Results\Sign10\Sign10_Prediction1.png
+		Results\Sign10\Sign10_Prediction2.png = Results\Sign10\Sign10_Prediction2.png
+		Results\Sign10\Sign10_Prediction3.png = Results\Sign10\Sign10_Prediction3.png
+		Results\Sign10\Sign10_PredictionWithTime.avi = Results\Sign10\Sign10_PredictionWithTime.avi
+		Results\Sign10\Sign10_PredictionWithTime.gif = Results\Sign10\Sign10_PredictionWithTime.gif
+		Results\Sign10\Sign10_Trained.png = Results\Sign10\Sign10_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign9", "Sign9", "{CC84109D-0A70-4C1D-BD92-2F51858942F0}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign9\Sign9_Prediction1.png = Results\Sign9\Sign9_Prediction1.png
+		Results\Sign9\Sign9_Prediction2.png = Results\Sign9\Sign9_Prediction2.png
+		Results\Sign9\Sign9_Prediction3.png = Results\Sign9\Sign9_Prediction3.png
+		Results\Sign9\Sign9_PredictionWithTime.avi = Results\Sign9\Sign9_PredictionWithTime.avi
+		Results\Sign9\Sign9_PredictionWithTime.gif = Results\Sign9\Sign9_PredictionWithTime.gif
+		Results\Sign9\Sign9_Trained.png = Results\Sign9\Sign9_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign8", "Sign8", "{2A21A2EC-1E54-49F4-B575-F76BDE6BEFAA}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign8\Sign8_Prediction1.png = Results\Sign8\Sign8_Prediction1.png
+		Results\Sign8\Sign8_Prediction2.png = Results\Sign8\Sign8_Prediction2.png
+		Results\Sign8\Sign8_Prediction3.png = Results\Sign8\Sign8_Prediction3.png
+		Results\Sign8\Sign8_PredictionWithTime.avi = Results\Sign8\Sign8_PredictionWithTime.avi
+		Results\Sign8\Sign8_PredictionWithTime.gif = Results\Sign8\Sign8_PredictionWithTime.gif
+		Results\Sign8\Sign8_Trained.png = Results\Sign8\Sign8_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign7", "Sign7", "{A84405F2-4F13-4770-8EAF-F33F7E11E09B}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign7\Sign7_Prediction1.png = Results\Sign7\Sign7_Prediction1.png
+		Results\Sign7\Sign7_Prediction2.png = Results\Sign7\Sign7_Prediction2.png
+		Results\Sign7\Sign7_PredictionWithTime.avi = Results\Sign7\Sign7_PredictionWithTime.avi
+		Results\Sign7\Sign7_PredictionWithTime.gif = Results\Sign7\Sign7_PredictionWithTime.gif
+		Results\Sign7\Sign7_Trained.png = Results\Sign7\Sign7_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign6", "Sign6", "{818EDBF1-426A-4C0C-91F6-47D36F7C6A6C}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign6\Sign6_Prediction1.png = Results\Sign6\Sign6_Prediction1.png
+		Results\Sign6\Sign6_Prediction2.png = Results\Sign6\Sign6_Prediction2.png
+		Results\Sign6\Sign6_PredictionWithTime.avi = Results\Sign6\Sign6_PredictionWithTime.avi
+		Results\Sign6\Sign6_PredictionWithTime.gif = Results\Sign6\Sign6_PredictionWithTime.gif
+		Results\Sign6\Sign6_Trained.png = Results\Sign6\Sign6_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign5", "Sign5", "{EF3EBE03-5347-4B73-A461-E6324C1298CA}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign5\Sign5_Prediction1.png = Results\Sign5\Sign5_Prediction1.png
+		Results\Sign5\Sign5_Prediction2.png = Results\Sign5\Sign5_Prediction2.png
+		Results\Sign5\Sign5_PredictionWithTime.avi = Results\Sign5\Sign5_PredictionWithTime.avi
+		Results\Sign5\Sign5_PredictionWithTime.gif = Results\Sign5\Sign5_PredictionWithTime.gif
+		Results\Sign5\Sign5_Trained.png = Results\Sign5\Sign5_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign4", "Sign4", "{7020E205-BB46-48BE-9B04-C4A1996E1A9C}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign4\Sign4_Prediction1.png = Results\Sign4\Sign4_Prediction1.png
+		Results\Sign4\Sign4_Prediction2.png = Results\Sign4\Sign4_Prediction2.png
+		Results\Sign4\Sign4_PredictionWithTime.avi = Results\Sign4\Sign4_PredictionWithTime.avi
+		Results\Sign4\Sign4_PredictionWithTime.gif = Results\Sign4\Sign4_PredictionWithTime.gif
+		Results\Sign4\Sign4_Trained.png = Results\Sign4\Sign4_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign3", "Sign3", "{60B80156-F05B-4E43-82EB-AB5F350D3469}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign3\Sign3_Prediction1.png = Results\Sign3\Sign3_Prediction1.png
+		Results\Sign3\Sign3_Prediction2.png = Results\Sign3\Sign3_Prediction2.png
+		Results\Sign3\Sign3_PredictionWithTime.avi = Results\Sign3\Sign3_PredictionWithTime.avi
+		Results\Sign3\Sign3_PredictionWithTime.gif = Results\Sign3\Sign3_PredictionWithTime.gif
+		Results\Sign3\Sign3_Trained.png = Results\Sign3\Sign3_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign2", "Sign2", "{14C0CA43-5231-40D4-B950-B85C7F157CA9}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign2\Sign2_Prediction1.png = Results\Sign2\Sign2_Prediction1.png
+		Results\Sign2\Sign2_Prediction2.png = Results\Sign2\Sign2_Prediction2.png
+		Results\Sign2\Sign2_PredictionWithTime.avi = Results\Sign2\Sign2_PredictionWithTime.avi
+		Results\Sign2\Sign2_PredictionWithTime.gif = Results\Sign2\Sign2_PredictionWithTime.gif
+		Results\Sign2\Sign2_Trained.png = Results\Sign2\Sign2_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sign1", "Sign1", "{E325651A-C257-479E-BC45-C446DBD4C4AD}"
+	ProjectSection(SolutionItems) = preProject
+		Results\Sign1\Sign1_Prediction1.png = Results\Sign1\Sign1_Prediction1.png
+		Results\Sign1\Sign1_Prediction2.png = Results\Sign1\Sign1_Prediction2.png
+		Results\Sign1\Sign1_PredictionWithTime.avi = Results\Sign1\Sign1_PredictionWithTime.avi
+		Results\Sign1\Sign1_PredictionWithTime.gif = Results\Sign1\Sign1_PredictionWithTime.gif
+		Results\Sign1\Sign1_Trained.png = Results\Sign1\Sign1_Trained.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{8788CEFE-8C72-44EC-9338-571F7EEFE20C}"
+	ProjectSection(SolutionItems) = preProject
+		nuget\Clustering.KMeans.1.0.6.nupkg = nuget\Clustering.KMeans.1.0.6.nupkg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46379778-7B7A-4D23-9FB8-2BA06BCF2E7F}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA5EA2B-200A-40CE-999C-7C2FEED6775E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA5EA2B-200A-40CE-999C-7C2FEED6775E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA5EA2B-200A-40CE-999C-7C2FEED6775E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA5EA2B-200A-40CE-999C-7C2FEED6775E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6810A5F4-9462-4F85-AC3B-B149CBFF6776} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{CC84109D-0A70-4C1D-BD92-2F51858942F0} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{2A21A2EC-1E54-49F4-B575-F76BDE6BEFAA} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{A84405F2-4F13-4770-8EAF-F33F7E11E09B} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{818EDBF1-426A-4C0C-91F6-47D36F7C6A6C} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{EF3EBE03-5347-4B73-A461-E6324C1298CA} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{7020E205-BB46-48BE-9B04-C4A1996E1A9C} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{60B80156-F05B-4E43-82EB-AB5F350D3469} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{14C0CA43-5231-40D4-B950-B85C7F157CA9} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+		{E325651A-C257-479E-BC45-C446DBD4C4AD} = {D96029E5-B651-4472-A6A7-C4A0E50404F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A1ECE3-847B-4C22-AF4C-025C9CC91C99}
+	EndGlobalSection
+EndGlobal
